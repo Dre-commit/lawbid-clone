@@ -1,0 +1,180 @@
+::-moz-selection {
+  background: #7b1e1e;
+  color: #fff !important; }
+
+::-webkit-selection {
+  background: #7b1e1e;
+  color: #fff !important; }
+
+::selection {
+  background: #7b1e1e;
+  color: #fff !important; }
+
+.bg-red {
+  background-color: #7b1e1e !important; }
+
+.bg-orange {
+  background-color: #ff6c00 !important; }
+
+.work-overlay-orange {
+  background-color: rgba(255, 108, 0, 0.8); }
+
+.btn-red {
+  background-color: #7b1e1e;
+  border-color: #7b1e1e;
+  color: #fff; }
+  .btn-red:hover {
+    color: #bdc3c7; }
+
+.btn-orange {
+  background-color: #ff6c00;
+  border-color: #ff6c00;
+  color: #fff; }
+  .btn-orange:hover {
+    color: #bdc3c7; }
+
+a {
+  color: #ff6c00;
+  -webkit-transition: all 0.3s ease-out;
+  transition: all 0.3s ease-out; }
+  a:hover, a:focus {
+    outline: 0;
+    text-decoration: none;
+    color: #cc5600; }
+
+a.list-item-link {
+  color: #777777; }
+
+.a-white {
+  color: white; }
+  @media (max-width: 768px) {
+    .a-white {
+      color: #bdc3c7; } }
+
+.loader:after {
+  border-color: #7b1e1e transparent transparent transparent; }
+
+.solicitor-loader:after {
+  border-color: #7b1e1e transparent transparent transparent; }
+
+.client-loader:after {
+  border-color: #7b1e1e transparent transparent transparent; }
+
+.cart-badge {
+  background: #ff6c00; }
+
+.bottom-line:after {
+  border-bottom: 2px solid #ff6c00; }
+
+.bottom-line-red:after {
+  border-bottom: 2px solid #7b1e1e; }
+
+.module-custom-padding {
+  padding: 50px 0; }
+
+.module-hero-45vh {
+  height: 45vh; }
+
+.breadcrumb-custom-h1 {
+  font-size: 18px !important; }
+
+.tags a:hover {
+  background-color: #ff6c00; }
+
+.icons-list a:hover {
+  color: #ff6c00; }
+.icons-list a.active {
+  color: #ff6c00; }
+.icons-list a:focus {
+  color: #ff6c00; }
+
+.breadcrumb li.active {
+  color: #ff6c00 !important;
+  font-weight: 700; }
+.breadcrumb a:hover {
+  color: #ff6c00; }
+.breadcrumb a.active {
+  color: #ff6c00; }
+.breadcrumb a:focus {
+  color: #ff6c00; }
+
+.bg-reviews {
+  background-color: rgba(255, 108, 0, 0.6) !important; }
+
+.icons-orange {
+  color: #ff6c00; }
+
+.icons-red {
+  color: #7b1e1e; }
+
+.divider-line-red:after {
+  background: #7b1e1e; }
+
+.divider-line-orange:after {
+  background: #ff6c00; }
+
+.step {
+  padding: 8px 12px 6px;
+  font-size: 15px;
+  color: white;
+  background: #ff6c00;
+  text-transform: uppercase;
+  border-radius: 100%; }
+
+.form-control:focus {
+  border-color: #ff6c00; }
+
+.black-href {
+  color: black !important; }
+
+.btn-fixed-width {
+  width: 210px; }
+
+.btn-fixed-width-160 {
+  width: 160px; }
+
+.color-orange {
+  color: #ff6c00; }
+
+.color-red {
+  color: #7b1e1e; }
+
+.best-value {
+  border: 1px solid #DEEBF2;
+  margin: -9px -1px 0 -1px; }
+
+.btn.focus {
+  color: #bdc3c7; }
+
+.owl-carousel .card {
+  margin-top: 10px; }
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.3);
+  transition: 0.3s; }
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.3); }
+
+.blockquote {
+  min-height: 270px !important; }
+
+.quotation-mark {
+  font-weight: bold;
+  font-size: 25px;
+  color: #7b1e1e; }
+
+#awards-carousel img {
+  display: block;
+  width: auto;
+  max-height: 120px; }
+
+#awards-carousel .slick-slide {
+  margin: 0 10px; }
+
+.validationMessage {
+  color: red; }
+
+/*# sourceMappingURL=template-lawbid.css.map */
